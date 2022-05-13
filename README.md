@@ -1,6 +1,7 @@
 # cheat-sheet-GitHub
 
  ### Git flow pour mettre à jour ma branch avec le code fait par un autre dev ou prof sur la branche master
+- commencer par commiter mon travail sur la branch dans laquelle je me trouve
 - migrer vers la branch master `git checkout master`
 - je vérifie si je suis bien sur master `git branch`
 - je pull les changements réalisé sur master (ici prof)  `git pull prof master --allow-unrelated-histories --no-edit -X theirs`
