@@ -12,6 +12,13 @@
 - ensuite je bosse dans ma nouvelle branch et pour commiter je dois d'abord préciser à GitHub que ma branch sera celle de push par défaut  `git push --set-upstream origin jour3`
 - ensuite comme d'hab => `git add .` `git commit -m""`  `git push`
 
+### le pull request workflow
+- on fait une PR de notre branche vers `master` (ou `main`)
+- nos collègues font le retour
+- on fix les retours sur notre branche
+- La PR **à continuer**
+
+
 
 
 
