@@ -25,6 +25,12 @@
  -  `git merge <branch> --no-ff` 
 ---
 
+ #### How to check a repository's status in Git:
+ This command will show the status of the current repository including staged, unstaged, and untracked files.
+ - `git status`
+ #### How to see your commit history in Git:
+ This command shows the commit history for the current repository:
+ - `git log`
 
 
 
